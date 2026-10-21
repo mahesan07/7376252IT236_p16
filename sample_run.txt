@@ -1,0 +1,82 @@
+mahesan@HP-EliteBook-640-14:~/Programming/AI_Xcelerate$ python3 main.py
+------------------------------------------------------Welcome to Quiz Game Terminal------------------------------------------------------
+
+Enter How Many Peoples Are Going To Play : 2
+------------------Available Topics Of Question------------------
+
+1. Python
+2. General Knowledge
+3. Mathematics
+Select a Topic : 1
+--------------------------- Player 1 ---------------------------
+Enter player Name : mahesan
+------------------------------- Quiz Start -------------------------------
+What is the output of print(2 + 3)?
+1. 5
+2. 6
+3. 23
+4. 2
+Enter Your Choice : 1
+Which keyword is used to define a function in Python?
+1. function
+2. def
+3. fun
+4. define
+Enter Your Choice : 3
+Which data type stores True or False?
+1. int
+2. str
+3. bool
+4. list
+Enter Your Choice : 3
+Which symbol is used for comments in Python?
+1. //
+2. <!-- -->
+3. **
+4. #
+Enter Your Choice : 1
+Which method adds an item to the end of a list?
+1. add()
+2. append()
+3. insertEnd()
+4. push()
+Enter Your Choice : 2
+mahesan, your score is 3/5.
+--------------------------- Player 2 ---------------------------
+Enter player Name : muki
+------------------------------- Quiz Start -------------------------------
+What is the output of print(2 + 3)?
+1. 5
+2. 6
+3. 23
+4. 2
+Enter Your Choice : 1
+Which keyword is used to define a function in Python?
+1. function
+2. def
+3. fun
+4. define
+Enter Your Choice : 2
+Which data type stores True or False?
+1. int
+2. str
+3. bool
+4. list
+Enter Your Choice : 3
+Which symbol is used for comments in Python?
+1. //
+2. <!-- -->
+3. **
+4. #
+Enter Your Choice : 4
+Which method adds an item to the end of a list?
+1. add()
+2. append()
+3. insertEnd()
+4. push()
+Enter Your Choice : 2
+muki, your score is 5/5.
+============================== LeaderBoard ==============================
+Rank : 1 Name : muki Score : 5
+Rank : 2 Name : mahesan Score : 3
+=========================================================================
